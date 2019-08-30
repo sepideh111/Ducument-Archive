@@ -1,0 +1,91 @@
+/*
+Allgemein
+*/
+*
+{
+	margin:  0px;
+	padding: 0px;
+	color: #070707;
+
+	
+}
+
+
+/*
+Layout
+*/
+#kopf
+{
+	background-color: #46F7FB;
+	color:   white;	
+	padding: 20px;
+	width:   1200px;
+	margin:  0 auto;
+}
+#hauptteil
+{
+	background-color: white;
+	color: black;
+	padding: 20px;
+	width:   1200px;
+	margin:  0 auto;	
+}
+#fuss
+{
+	background-color: #46F7FB;
+	color:   white;	
+	padding: 20px;
+	width:   1200px;
+	margin:  0 auto;	
+}
+
+/*
+Links
+*/
+#kopf a , #fuss a
+{
+	color:black;
+	
+}
+
+
+
+.main {
+	  width: 1200px;
+	  margin: 0 auto;
+}
+
+
+.container {
+	   width: 1100px;
+	   margin: 0 auto;
+}
+
+.pull_right {
+	   float: right;
+	   
+}
+
+.pull_left {
+	   float: left;
+	  
+}
+
+.masthead .top_menu{
+	width: 100%;
+	float: right;
+	background:  #F5B041;  
+	
+}
+
+.masthead .top_menu ul li{
+	display: inline-block;  
+}
+
+.masthead .top_menu ul li a{
+	display: block;
+    padding: 10px 10px;
+    color:	#4A71AA  
+	
+}
+
